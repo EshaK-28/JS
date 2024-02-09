@@ -7,7 +7,8 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"capaj.vscode-exports-autocomplete"
+				"capaj.vscode-exports-autocomplete",
+				"Codeium.codeium"
 			]
 		}
 	}

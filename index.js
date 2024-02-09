@@ -44,8 +44,13 @@
 
 // ****************************Operations***********************************
 
-let value = 3
-let negValue = -value
-console.log(value)
+// let value = 3
+// let negValue = -value
+// console.log(value)
+// console.log(negValue)
 
+console.log(1+"2")
+console.log("2"+1)
+console.log(1+2+"2")
+console.log("2"+1+1)
 
