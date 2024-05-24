@@ -1,6 +1,6 @@
 // "use strict"; treat all js code as newer version
 
-// console.log("esha")
+console.log("esha")
 
 // const a = 123
 // var b = 'esha'
